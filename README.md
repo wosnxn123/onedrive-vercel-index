@@ -134,7 +134,7 @@ Yes! Completely free with no backend server what-so-ever. (Well, we use Redis, b
 
 Open-source is hard! If you happen to like this project and want me to keep going, please consider sponsoring me or providing a single donation! Thanks for all the love and support!
 
-[🧸 Please donate - 微信/支(吃)付宝](https://ovi.swo.moe/sponsor) · [Patreon](https://www.patreon.com/spencerwoo) · [爱发电](https://afdian.net/@spencerwoo)
+[🧸 Please donate - 微信/支付宝](https://ovi.swo.moe/sponsor) · [Patreon](https://www.patreon.com/spencerwoo) · [爱发电](https://afdian.net/@spencerwoo)
 
 ### Sponsors
 
